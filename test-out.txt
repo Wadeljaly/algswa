@@ -1,0 +1,14 @@
+Could not load link: "http://localhost/style.css"
+Could not load script: "http://localhost/database.js?v=1.0.2"
+Could not load script: "http://localhost/main.js?v=1.0.2"
+Could not load script: "http://localhost/dashboard.js?v=1.0.2"
+Could not load script: "http://localhost/products.js?v=1.0.2"
+Could not load script: "http://localhost/sales.js?v=1.0.2"
+Could not load script: "http://localhost/invoices.js?v=1.0.2"
+Could not load script: "http://localhost/customers.js?v=1.0.2"
+Could not load script: "http://localhost/suppliers.js?v=1.0.2"
+Could not load script: "http://localhost/reports.js?v=1.0.2"
+Could not load script: "http://localhost/settings.js?v=1.0.2"
+Could not load script: "http://localhost/app.js?v=1.0.2"
+SuppliersController not found in main.js, attempting to recover from suppliers.js...
+App ready...

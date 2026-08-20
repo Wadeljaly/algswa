@@ -1,0 +1,26 @@
+==================================================
+        Al-Qaswaa POS - Recovery & Activation
+==================================================
+
+1. Master Recovery Key (كود المطور للاستعادة):
+--------------------------------------------------
+Code: alqaswaa@2026
+
+* Note: This key can be used in the password recovery 
+  modal to reset the manager password to '123'.
+
+2. Product Activation Serials (مفاتيح التفعيل):
+--------------------------------------------------
+Key 1: QA-PRO-2026-X1
+Key 2: QA-PRO-2026-X2
+Key 3: QA-PRO-2026-X3
+
+* Note: Each key is bound to one device Hardware ID (HWID).
+
+3. Default Manager Password:
+--------------------------------------------------
+Password: 123
+
+==================================================
+Keep this file in a safe place.
+==================================================
